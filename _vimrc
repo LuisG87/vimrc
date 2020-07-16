@@ -186,5 +186,3 @@ nnoremap <leader>4 :wincmd h<CR>
 nnoremap <leader>6 :wincmd l<CR>
 nnoremap <silent> <leader>+ :vertical resize +5<CR>
 nnoremap <silent> <leader>- :vertical resize -5<CR>
-
-let g:UltiSnipsSnippetDirectories = ['/home/luis/.vim/user_snippets/UltiSnips']
